@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, 👋
 
-<!--
-**aohorodnyk/aohorodnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anton Ohorodnyk, a Software Engineer by trade. Here's a quick rundown about me:
 
-Here are some ideas to get you started:
+* I've been navigating the software engineering seas since 2005.
+* Occasionally, you'll find me penning thoughts on my [blog](https://aohorodnyk.com).
+* My journey with social media has been a rocky one, with the exception of my time on Jabber and IRC. However, I'm looking forward to reintegrating into the tech-savvy world through Mastodon.
+* I'm an active contributor to various open-source projects, with most of my contributions proudly displayed here on GitHub.
+* I am an advocate for minimalism and simplicity, reflected clearly in my coding style and designs.
+* I'm an enthusiast of [Golang](https://golang.org), backend development, databases, distributed systems, and Web Technologies.
+* I greatly enjoy collaborating with others, so don't hesitate to connect with me through any available channel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me:
+
+I prefer to keep information consistent, so the best way to find all the ways to reach me is through my [website](https://aohorodnyk.com).
