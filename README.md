@@ -13,8 +13,3 @@ I'm Anton Ohorodnyk, a Software Engineer by trade. Here's a quick rundown about 
 #### 📫 How to reach me:
 
 I prefer to keep information consistent, so the best way to find all the ways to reach me is through my [website](https://aohorodnyk.com).
-
-Some of them include:
-
-* LinkedIn: [aohorodnyk](https://www.linkedin.com/in/aohorodnyk/)
-* Mastodon: search for [me@aohorodnyk.com](https://aohorodnyk.com/post/2023-07-08-mastodon-alias-in-cloudflare/) or use direct link <a href="https://fosstodon.org/@aohorodnyk" rel="nofollow me">https://fosstodon.org/@aohorodnyk</a>
