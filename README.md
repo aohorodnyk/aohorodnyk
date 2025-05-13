@@ -7,7 +7,7 @@ I'm Anton Ohorodnyk, a Software Engineer by trade. Here's a quick rundown about 
 * My journey with social media has been a rocky one, with the exception of my time on Jabber and IRC. However, I'm looking forward to reintegrating into the tech-savvy world through Mastodon.
 * I'm an active contributor to various open-source projects, with most of my contributions proudly displayed here on GitHub.
 * I am an advocate for minimalism and simplicity, reflected clearly in my coding style and designs.
-* I'm an enthusiast of [Golang](https://golang.org), backend development, databases, distributed systems, and Web Technologies.
+* I'm an enthusiast of [Golang](https://golang.org), [Rust](https://www.rust-lang.org), backend development, databases, distributed systems, and Web Technologies.
 * I greatly enjoy collaborating with others, so don't hesitate to connect with me through any available channel.
 
 #### 📫 How to reach me:
